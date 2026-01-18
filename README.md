@@ -40,13 +40,17 @@ I'm a Computer Science student based in Ernakulam, India, building the bridge be
 
 ---
 
-<h3 align="left">My GitHub Stats:</h3>
+## 📊 My GitHub Stats
 
 <div align="center">
 
 ![Haron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haron243&show_icons=true&locale=en&theme=tokyonight)
 
+<br>
+
 ![Haron's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haron243&theme=tokyonight)
+
+<br>
 
 ![Haron's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Haron243&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
